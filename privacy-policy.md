@@ -38,14 +38,20 @@ dữ liệu chừng nào tài khoản còn tồn tại.
 
 ## 5. Xoá dữ liệu
 
-Bạn có quyền yêu cầu xoá toàn bộ dữ liệu gắn với thiết bị của mình.
+Bạn có quyền xoá toàn bộ dữ liệu gắn với thiết bị của mình, và làm được **ngay trong trò chơi**:
 
-- **Gỡ cài đặt** xoá dữ liệu lưu trên máy.
-- Để xoá dữ liệu **trên máy chủ**, gửi yêu cầu tới địa chỉ ở mục 8. Chúng tôi xử lý trong vòng
-  30 ngày và xoá hẳn, không giữ bản lưu trữ.
+> **Thiết Lập → Dữ Liệu → Xoá toàn bộ dữ liệu**
 
-Vì tài khoản gắn với mã thiết bị chứ không phải email, hãy nói rõ trong yêu cầu rằng bạn đang
-dùng thiết bị nào và tên nhân vật là gì, để chúng tôi tìm đúng bản ghi.
+Thao tác này xoá vĩnh viễn tiến trình tu luyện, trang bị, hòm thư, ví và thứ hạng — **cả trên
+máy chủ lẫn trên máy** — và không thể khôi phục. Thiết lập âm thanh, cỡ giao diện và tuỳ chọn
+giảm chuyển động được giữ lại, vì chúng không gắn với tài khoản và không mô tả bạn.
+
+Hai cách khác:
+
+- **Gỡ cài đặt** xoá dữ liệu lưu trên máy, nhưng **không** xoá dữ liệu trên máy chủ.
+- Không mở được trò chơi thì gửi yêu cầu tới địa chỉ ở mục 8. Chúng tôi xử lý trong vòng 30 ngày
+  và xoá hẳn, không giữ bản lưu trữ. Vì tài khoản gắn với mã thiết bị chứ không phải email, hãy
+  nói rõ bạn đang dùng thiết bị nào và tên nhân vật là gì, để chúng tôi tìm đúng bản ghi.
 
 ## 6. Trẻ em
 
@@ -59,7 +65,6 @@ liệu thu thập sẽ được thông báo trong trò chơi trước khi có hi
 
 ## 8. Liên hệ
 
-<!-- BẮT BUỘC ĐIỀN. Play đối chiếu địa chỉ này với email liên hệ khai trong Console, và một
-     chính sách không có cách liên hệ là một chính sách không hợp lệ. -->
+Mọi câu hỏi về chính sách này, hoặc yêu cầu xoá dữ liệu, gửi tới:
 
-**Email: `immortalforgesupport@gmail.com`**
+**Email: immortalforgesupport@gmail.com**
