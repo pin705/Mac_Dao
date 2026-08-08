@@ -4,6 +4,21 @@
 
 Tài liệu này áp dụng cho ứng dụng **Mặc Đạo** (`com.pin705.macdao`) trên Google Play.
 
+> **Đang đăng tại** `https://github.com/pin705/Mac_Dao/blob/main/privacy-policy.md`. Repo đó
+> **phải giữ public vĩnh viễn** — chuyển private là link chết, và app có link chính sách hỏng bị
+> gỡ chứ không được nhắc.
+>
+> **KHI COPY SANG ĐÓ, PHẢI COPY CẢ BỐN DÒNG TIÊU ĐỀ Ở TRÊN.** Bản đăng lần đầu bị cắt mất phần
+> đầu và bắt đầu thẳng từ "## 1." — nên tài liệu không còn chỗ nào **tự xưng nó là chính sách
+> quyền riêng tư của app nào**. Người duyệt mở link ra và phải tự suy luận; đó là một trong những
+> lý do bị trả về hay gặp nhất, và nó không nằm ở nội dung mà ở phần bị bỏ rơi lúc copy.
+>
+> Nội dung dưới đây mô tả đúng những gì code đang làm tại thời điểm ghi, đọc ra từ
+> `net/providers/nakama_provider.gd`. **Sửa backend thì phải sửa lại file này VÀ khai lại form
+> Data Safety** — khai sai form là một trong số ít lý do Play gỡ app thẳng, không nhắc trước.
+
+---
+
 ## 1. Chúng tôi thu thập gì
 
 Mặc Đạo không có màn đăng ký, không hỏi tên thật, email, số điện thoại hay bất kỳ giấy tờ nào.
