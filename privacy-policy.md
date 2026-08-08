@@ -88,5 +88,3 @@ liệu thu thập sẽ được thông báo trong trò chơi trước khi có hi
 Mọi câu hỏi về chính sách này, hoặc yêu cầu xoá dữ liệu, gửi tới:
 
 **Email: immortalforgesupport@gmail.com**
-
-Địa chỉ này phải trùng với email liên hệ khai trong Google Play Console.
