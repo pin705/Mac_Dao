@@ -1,3 +1,8 @@
+# Chính Sách Quyền Riêng Tư — Mặc Đạo
+
+**Cập nhật lần cuối: 07/08/2026**
+
+Tài liệu này áp dụng cho ứng dụng **Mặc Đạo** (`com.pin705.macdao`) trên Google Play.
 
 ## 1. Chúng tôi thu thập gì
 
@@ -68,3 +73,5 @@ liệu thu thập sẽ được thông báo trong trò chơi trước khi có hi
 Mọi câu hỏi về chính sách này, hoặc yêu cầu xoá dữ liệu, gửi tới:
 
 **Email: immortalforgesupport@gmail.com**
+
+Địa chỉ này phải trùng với email liên hệ khai trong Google Play Console.
